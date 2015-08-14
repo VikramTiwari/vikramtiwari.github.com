@@ -9,4 +9,11 @@ Github repo for Vikram Tiwari's Website
 3. Check at http://<yourusername>.github.io
 4. Make changes as you want!
 
-### Don't forget to star the repo if you like it ;)
+## How to run and make changes locally
+Simply go to your cloned directory and if you have
+
+1. NodeJS ```server```
+2. Python 2.7x ```python -m SimpleHTTPServer```
+3. Python 3.x ```python -m http.server```
+
+#### Don't forget to star the repo if you like it ;)
