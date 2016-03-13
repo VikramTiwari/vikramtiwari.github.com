@@ -1,7 +1,7 @@
-vikramtiwari.github.io
+aasthamalhotra.github.io
 ======================
 
-Github repo for Vikram Tiwari's Website
+Github repo for Aastha Malhotra's Website
 
 ## How to get your own?
 1. Fork the repo
