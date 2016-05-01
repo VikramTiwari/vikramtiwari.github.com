@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/vikramtiwari
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://vikramtiwari.com
+  * I am vikramtiwari (https://keybase.io/vikramtiwari) on keybase.
+  * I have a public key with fingerprint 9B33 1A89 33E4 E549 0730  B06E CC32 49DC 3820 CE0B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012038a221826112a1f2a82291b03d69c4c5d49ae7c0d290363962b8b802b14e99c70a",
+            "fingerprint": "9b331a8933e4e5490730b06ecc3249dc3820ce0b",
+            "host": "keybase.io",
+            "key_id": "cc3249dc3820ce0b",
+            "kid": "010114595da575766e226292adf78ec8650780cf4c6898ec5f73e6afbf571a2d3f520a",
+            "uid": "f3a58796ad30d2cb8f5aa0b0b41a9519",
+            "username": "vikramtiwari"
+        },
+        "service": {
+            "hostname": "vikramtiwari.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1462072228,
+    "expire_in": 157680000,
+    "prev": "727f7d0045213141caf21c2a7b041a3423f02642a1a27bf0ea409ec6f00b96f1",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMNwAnicbVJ7UFRVHAZ8gCTPcUYpp+AKDAS55577ZkQcEImUcmoaQTDm3HvPXS7r
+7sXdZc1wgSlHzdEZncqc8JURUmHkOEFJWDxmwMnEaElAGUKeljxmXZtZQOkuk/95
+/jlzfr/v+873/c5pD1niF+x/A2bf5aNvPuf/a8u5Ur8dcbbqMkLU5H1EShlhwosb
+3i1jm73QpMpECgFICCgeQUjykCVJiEgFIh5CgRQBJbOCREuMTAsIcxKQoQAolhJY
+KPIiD6BI0lgQJA4gIplQVIsRW0usqsWuywoiRZGIFygK05ihBcBRQAQsliQK0oIs
+UTwEEgaiTizSbD6Gbk5ENrxe1fSafihctPcM/FPfgCRpRmBkxHAMx7IYQhYKEMkK
+x2OJZxnA8UBSaInlBb3AKByFWaSICsORCMqUwsBF36WLcgqFGJ4TWCRTekxJ5BUG
+Id2xSJNIYEjBB7RhqwWZsY52qCYrMtvVvciqEs5kQu84VAn7hutL8wzUekkz6xol
+Vs2uSdpuvVtkt5ek+Mj2fSU+9F4sFv6vUyiqFlkfp05wYKtN1SxECqkjJbvqEyZp
+FgIOQsgnE/jdEtWKC1UfQp8CD/TluwY7dEkOcgonA0AzkKRImpSQAkkJIk4EeiyK
+hpQCIEvrb44gJyoAIxoIWGIVAESBVUjCl2yPRfNp6z6RUde0qUYLspdaMeFsbSlY
+6ucf7Ld8WYDvn/kFrwh/+vuuR4Q9SXh0uG5ocvk/vRmrverZc2W7zscW0ce7N3+U
+FjMcE3h16eooxj0S/lNO+LaJ/lz/gSPz7DopcKoppvbkk5G1Afx4dM3E0Rc2mQ6Y
+Zrav6vTk3XJkQcVtZDISmz+ux/+ODGZlhKZONb5prgmOfKW0ciKz2FMw0Hc5Ylib
+jNg/GD9dOVFkcBtnv1sTv3GAT/J0/lK7te/OxdykwE7HkdaO0LR36O7nc+N+jFr7
+wG0wtDV1vf27/cq493bKktOVC1mjL9ZqX26+kONig04knrYcSm7YuDBmDh29lt4R
+CusWzP2HvH989dJf4cea3ifi8qZc+zuX3T1/sce/ddelTTGVDRWGtvH8+6lNfyY4
+h082VwTNDdUO1fQW3/rC/vPshgTXcREUr9xpuDR9r+Xv5l5mpG9sPmnnoPPDHe2h
+2dXVqY1bPsDc56H5kRsiH5TWvnchsqIxqjjotzP3xBNfK7dTth7+9tXgjpGQU7jq
+1MFvosPiq5ylc3HZVY2vCT/cGdNedh/rLm9wBqxrvDbV/igkZ9V8XnpmR9tnRxPL
+72eVv95ufpx4dWbb91Heco8f7o2fU2MzZx9OGKcPzpS9MTsN8RTRs93Vf6On/lPH
+zU/6Dni8rrNn4J7rb7lGIyaROLlg8npGWx1d6bFpK7ID4vMnC9ZcfnjFUNClMY/z
+wrbUryzurhtW8ubdhv8Axm3O9Q==
+=V5gx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vikramtiwari
+
+==================================================================
