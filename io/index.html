@@ -3,8 +3,23 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Google I/O Livestream</title>
+		<script>
+			(function(i, s, o, g, r, a, m) {
+				i['GoogleAnalyticsObject'] = r;
+				i[r] = i[r] || function() {
+					(i[r].q = i[r].q || []).push(arguments)
+				}, i[r].l = 1 * new Date();
+				a = s.createElement(o),
+					m = s.getElementsByTagName(o)[0];
+				a.async = 1;
+				a.src = g;
+				m.parentNode.insertBefore(a, m)
+			})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+			ga('create', 'UA-20640332-6', 'auto');
+			ga('send', 'pageview');
+		</script>
 	</head>
 	<body>
-		<iframe src="https://events.google.com/io2016/embed" style="width:875px;height:450px" frameborder="0" allowfullscreen></iframe>
+		<iframe src="https://events.google.com/io2016/embed" style="width:100%;height:1000px" frameborder="0" allowfullscreen></iframe>
 	</body>
 </html>
