@@ -1,5 +1,0 @@
-rm -rf production
-gcloud --quiet config set project ivikramtiwari
-rsync -d -r --exclude='production' --exclude='.git' ./* ./production
-gsutil -m rsync -d -r production gs://ivikramtiwari-code/website/production
-rm -rf production
