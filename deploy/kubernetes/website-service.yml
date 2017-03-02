@@ -1,0 +1,22 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: website
+  labels:
+    app: website
+    tier: frontend
+spec:
+  type: LoadBalancer
+  ports:
+    # the port that this service should serve on
+  - port: 80
+    targetPort: 80
+    protocol: TCP
+    name: tcp-80
+  - port: 443
+    targetPort: 443
+    protocol: TCP
+    name: tcp-443
+  selector:
+    app: website
+    tier: frontend
