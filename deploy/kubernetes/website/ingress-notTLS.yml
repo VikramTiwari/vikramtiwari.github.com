@@ -1,0 +1,21 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: website
+  namespace: website
+  annotations:
+    # kubernetes.io/tls-acme: "true"
+    kubernetes.io/ingress.class: "gce"
+spec:
+  # tls:
+  # - hosts:
+  #   - tls.vikramtiwari.com
+  #   secretName: website-tls
+  rules:
+  - host: nottls.vikramtiwari.com
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: website
+          servicePort: 80
