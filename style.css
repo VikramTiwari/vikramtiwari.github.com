@@ -13,7 +13,7 @@ p{margin:0px;}
 .profile-card header a:hover > img{-webkit-box-shadow:0px 0px 0px 12px rgba(0, 0, 0, 0.1);box-shadow:0px 0px 0px 12px rgba(0, 0, 0, 0.1);}
 .profile-card .profile-bio{width:175px;height:180px;display:inline-block;float:right;padding:50px 20px 30px 20px;background:#FFFFFF;color:#333333;margin-top:50px;text-align:center;opacity:0;-webkit-animation:moveIn 1s 3.1s ease forwards;animation:moveIn 1s 3.1s ease forwards;}
 .profile-social-links{width:218px;display:inline-block;float:right;margin:0px;padding:15px 20px;background:#FFFFFF;margin-top:50px;text-align:center;opacity:0;-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-animation:moveIn 1s 3.1s ease forwards;animation:moveIn 1s 3.1s ease forwards;}
-.profile-social-links li{list-style:none;margin:-5px 0px 0px 0px;padding:0px;float:left;width:33.3%;text-align:center;}
+.profile-social-links li{list-style:none;margin:-5px 0px 0px 0px;padding:0px;float:left;width:50%;text-align:center;}
 .profile-social-links li a{display:inline-block;width:24px;height:24px;padding:6px;position:relative;overflow:hidden!important;-webkit-border-radius:50%;border-radius:50%;}
 .profile-social-links li a img{position:relative;z-index:1;}
 .profile-social-links li a:before{display:block;content:"";background:rgba(0, 0, 0, 0.3);position:absolute;left:0px;top:0px;width:36px;height:36px;opacity:1;-webkit-transition:transform 0.4s ease, opacity 1s ease-out;transition:transform 0.4s ease, opacity 1s ease-out;-webkit-transform:scale3d(0, 0, 1);transform:scale3d(0, 0, 1);-webkit-border-radius:50%;border-radius:50%;}
