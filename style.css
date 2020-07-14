@@ -62,20 +62,17 @@ margin-left: 60px;
 .red-text{
     color: red;
 }
-.grey-h3{
-    color:grey;
-}
+
 .onec-cont{
     width: 100%;
     height: auto;
     margin-left: 25px;
+    
 }
 .left{
     float: left;
 }
-.margin{
-margin-left: 10px;
-}
+
 .link{
 
         margin-top: 20px;
@@ -84,7 +81,7 @@ margin-left: 10px;
 .twoc{
        width: 100%;
         height: auto;
-        margin-top: 313px;
+        
 }
 .onec{
     width: 100%;
@@ -97,4 +94,44 @@ margin-left: 10px;
 }
 .threec{
     margin-top: 270px;
+}
+.onec{
+    width: 100%;
+    height: auto;
+}
+.movie-all{
+    width: 100%;
+    height: auto;
+    border-width: 20px;
+}
+.movie{
+    
+    width: 25%;
+    height: 290px;
+    background-color: rgb(184, 184, 228);
+    border: black;
+    border-radius: 10px;
+    border-width: 23%;
+    margin: 10px;
+cursor: pointer;
+}
+.movie:hover{
+    background-color: rgb(214, 76, 76);
+    
+}
+.img-size
+{
+    width: 95%;
+height: 230px;
+margin:8px;
+}
+.movie-title{
+    font-weight: bolder;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(0, 102, 255);
+    margin: 0px;
+    width:20% ;
+}
+.txt-dec{
+    text-decoration: none;
 }

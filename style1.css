@@ -71,11 +71,24 @@ margin-left: 60px;
 }
 .main-img{
     width: 508px;
-height: 380px;
+height: 500px;
 margin-left: -180px;
 margin-top: 50px
 }
 .grey-text{
     color: grey;
     font-size: 18px;
+}
+.list{
+    width: 40%;
+    height: auto;
+    cursor:move;
+    color: rgb(226, 72, 0);
+}
+.download{
+    cursor: pointer;
+    background-color: red;
+    width: 180px;
+    height: 40px;
+    margin-left: 500px;
 }
