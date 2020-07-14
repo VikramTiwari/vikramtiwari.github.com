@@ -1,0 +1,137 @@
+.main-header{
+    width: 100%;
+height: 94px;
+background-color: black;
+margin-top: 0px;
+}
+.header{
+    width: 100%;
+height: 94px;
+margin-left: 60px;
+}
+body{
+    margin:0;
+    
+    
+}
+.heading{
+    font-size: 75px;
+    font-weight: bolder;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+.red-dvd{
+    color:rgb(218, 26, 26);
+}
+.white-box{
+    color: #fff;
+}
+.red-line {
+        width: 100%;
+        height: 15px;
+        color: rgb(218, 26, 26);
+        margin-top: 0px;
+        background:  rgb(218, 26, 26);
+}
+.white-box:hover{
+    color:rgb(218, 26, 26);
+
+}
+.red-dvd:hover{
+    color: #fff;
+
+}
+.blue-back{   width: 100%;
+    height: 60px;
+    background-color: rgb(107, 25, 201);
+    margin-top: -8px;
+}
+.sub-head{
+    color: #fff;
+font-size: 40px;
+text-decoration: none;
+cursor: pointer;
+margin-left: 60px;
+}
+.main{
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(#fff,#fff)
+}
+.red-text{
+    color: red;
+}
+
+.onec-cont{
+    width: 100%;
+    height: auto;
+    margin-left: 25px;
+    
+}
+.left{
+    float: left;
+}
+
+.link{
+
+        margin-top: 20px;
+        margin-left: 12px;
+    }
+.twoc{
+       width: 100%;
+        height: auto;
+        
+}
+.onec{
+    width: 100%;
+    height: auto;
+}
+.blue-h3{
+    text-decoration:none ;
+    
+    font-size: 25px;
+}
+.threec{
+    margin-top: 270px;
+}
+.onec{
+    width: 100%;
+    height: auto;
+}
+.movie-all{
+    width: 100%;
+    height: auto;
+    border-width: 20px;
+}
+.movie{
+    
+    width: 25%;
+    height: 290px;
+    background-color: rgb(184, 184, 228);
+    border: black;
+    border-radius: 10px;
+    border-width: 23%;
+    margin: 10px;
+cursor: pointer;
+}
+.movie:hover{
+    background-color: rgb(214, 76, 76);
+    
+}
+.img-size
+{
+    width: 95%;
+height: 230px;
+margin:8px;
+}
+.movie-title{
+    font-weight: bolder;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(0, 102, 255);
+    margin: 0px;
+    width:20% ;
+}
+.txt-dec{
+    text-decoration: none;
+}
