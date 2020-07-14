@@ -1,4 +1,4 @@
-vikramtiwari.github.io
+hashimkp.github.io
 ======================
 
 Github repo for Vikram Tiwari's Website
