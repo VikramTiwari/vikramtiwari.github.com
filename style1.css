@@ -59,42 +59,23 @@ margin-left: 60px;
     height: 100%;
     background:linear-gradient(#fff,#fff)
 }
-.red-text{
+.text-dec{
+    text-decoration: none;
+    font-size: 40px;
+}
+.red-para{
     color: red;
 }
-.grey-h3{
-    color:grey;
-}
-.onec-cont{
-    width: 100%;
-    height: auto;
-    margin-left: 25px;
-}
-.left{
+.float{
     float: left;
 }
-.margin{
-margin-left: 10px;
+.main-img{
+    width: 508px;
+height: 380px;
+margin-left: -180px;
+margin-top: 50px
 }
-.link{
-
-        margin-top: 20px;
-        margin-left: 12px;
-    }
-.twoc{
-       width: 100%;
-        height: auto;
-        margin-top: 313px;
-}
-.onec{
-    width: 100%;
-    height: auto;
-}
-.blue-h3{
-    text-decoration:none ;
-    
-    font-size: 25px;
-}
-.threec{
-    margin-top: 270px;
+.grey-text{
+    color: grey;
+    font-size: 18px;
 }
