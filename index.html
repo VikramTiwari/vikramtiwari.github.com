@@ -40,6 +40,9 @@
       href="https://github.com/VikramTiwari/vikramtiwari.github.com/blob/master/LICENSE"
     />
     <link rel="dns-prefetch" href="//vikramtiwari.com/" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet" />
     <link rel="manifest" href="manifest.json" />
     <link rel="stylesheet" href="style.css" media="screen" sizes="any" />
     <script type="application/ld+json">
@@ -98,7 +101,7 @@
           target="_blank"
           rel="noopener"
         >
-          <img src="./assets/vikram.jpg" alt="vikram profile pic" />
+          <img src="./assets/vikram.jpg" alt="vikram profile pic" width="120" height="120" fetchpriority="high" />
         </a>
         <h1>Vikram Tiwari</h1>
         <h2>Hey Dreamer! Let's Create.</h2>
@@ -152,5 +155,4 @@
       navigator.serviceWorker.register('service-worker.js')
     }
   </script>
-  <script src="./service-worker.js" charset="utf-8" async></script>
 </html>
